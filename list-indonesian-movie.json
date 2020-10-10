@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
+        "name" : "The Act of Killing",
+        "genre" : "Documentasi, Biografi, Kriminal, Sejarah",
+        "description" : "film dokumenter karya sutradara Amerika Serikat Joshua Oppenheimer",
+        "rating" : "8.2/10",
+        "source": ""
+    },
+    {
+        "name" : "Bombshell",
+        "genre" : "Biografi, Drama",
+        "description" : "Film Hollywood Bombshell besutan Jay Roach",
+        "rating" : "6.8/10",
         "source": ""
     },
 ]
