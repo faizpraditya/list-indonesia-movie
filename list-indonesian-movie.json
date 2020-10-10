@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "Danur: I Can See Ghosts",
+        "genre" : "Horor",
+        "description" : "Danur adalah sebuah waralaba film horor yang diproduksi oleh MD Pictures. Waralaba tersebut dimulai dengan film Danur: I Can See Ghosts di tahun 2017. Film ini diangkat dari buku karya Risa Saraswati, Gerbang Dialog Danur yang ditulis berdasarkan pengalamannya sendiri sebagai seorang gadis indigo.",
+        "rating" : "5.4/10",
+        "image": "https://upload.wikimedia.org/wikipedia/id/0/09/Danur_poster.jpg"
+    },
+    {
+        "name" : "Ketika Cinta Bertasbih",
+        "genre" : "Drama, Romance",
+        "description" : "Ketika Cinta Bertasbih merupakan film Indonesia yang dirilis pada tanggal 19 Juni 2009 yang disutradarai oleh Chaerul Umam. Film ini dibintangi antara lain oleh Kholidi Asadil Alam, Oki Setiana Dewi, Alice Norin, Andi Arsyil Rahman, Meyda Sefira, Deddy Mizwar, Niniek L. Karim, Didi Petet, Habiburrahman El Shirazy, Aspar Paturusi, Din Syamsudin, Slamet Rahardjo, dan El Manik. Film ini diangkat dari novel best seller karangan Habiburrahman El Shirazy yang berjudul sama Ketika Cinta Bertasbih. Ketika Cinta Bertasbih merupakan film Indonesia terlaris tahun 2009 dengan jumlah penonton 3 Juta orang. Kemudian diikuti sekuelnya, Ketika Cinta Bertasbih 2 yang berhasil meraih 1,5 Juta penonton.",
+        "rating" : "6.0/10",
+        "image": "https://upload.wikimedia.org/wikipedia/id/d/d5/PosterFilmKCB.jpg"
     },
 ]
