@@ -4,7 +4,7 @@
 Selamat datang di quest **#HacktoberFest2020** ke-empat, pada quest ini kalian diminta untuk bantu mengisi film apa saja yang made in Indonesia. Masing masing peserta paling minimal menambahkan 2 film yang made in Indonesia ke file bernama **[Indonesian Movie.json](https://github.com/tiuinws/list-vacation-spot-on-indonesia/blob/master/indonesia-vacation.json)**.
 
 ## Step procedure :
-1. Pertama kalian harus melakukan fork repository ini ke aku github kalian
+1. Pertama kalian harus melakukan fork repository ini ke akun github kalian
 2. Kemudian kalian mengclone repository yang telah kalian fork 
 3. Buka folder repository yang sudah kalian clone dengan text editor kalian
 4. Kalian bisa melakukan copy paste format yang sudah ada dan 
