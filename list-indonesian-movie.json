@@ -1,9 +1,18 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "Dilan",
+        "genre" : "Romantis / Drama",
+        "description" : "Dilan 1990 merupakan film drama Indonesia tahun 2018.[1] Film ini diangkat dari novel Dilan: Dia adalah Dilanku Tahun 1990 karya Pidi Baiq",
+        "rating" : "7.3/10",
+        "source": "Bandung"
+    },
+]
+[
+    {
+        "name" : "Bucin",
+        "genre" : "Drama",
+        "description" : "Bucin atau kependekan dari budak cinta jadi frasa yang jadi tren hingga saat ini. Predikat ini diberikan buat seseorang yang rela melakukan apapun demi cinta atau pendeknya, sih, menghamba pada kekasih",
+        "rating" : "4,2",
+        "source": "Bogor"
     },
 ]
