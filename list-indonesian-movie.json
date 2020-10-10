@@ -1,5 +1,19 @@
 [
     {
+        "name" : "Marmut Merah Jambu",
+        "genre" : "Komedi-drama",
+        "description" : "Marmut Merah Jambu adalah film indonesia tahun 2014 bergenre drama komedi yang dirilis pada 8 Mei 2014 dan dibintangi oleh Christoffer Nelwan, Raditya Dika, Franda, Kamga Mo, Tio Pakusadewo, Dewi Irawan dan Bucek Depp. Film ini diangkat dari novel karya Raditya Dika yang berjudul sama. ",
+        "rating" : "6.9/10",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWNkYWVhMDAtYWFmOC00ZDRhLTljOGQtNzFiNWFhYzliMzc4XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg"
+    },
+    {
+        "name" : "Manusia Setengah Salmon",
+        "genre" : "Komedi",
+        "description" : "Manusia Setengah Salmon adalah film drama Indonesia yang dirilis pada 10 Oktober 2013 dan dibintangi oleh Raditya Dika, Eriska Reinisa, Soleh Solihun, Kimberly Ryder, Dewi Irawan dan Bucek Depp. Film ini diangkat dari novel karya Raditya Dika yang berjudul sama. ",
+        "rating" : "6.0/10",
+        "image": "https://dkfhw9rzsr80z.cloudfront.net/STA-IN-001-A0023/artworks/posters/STA-IN-001-A0023-P544.jpg?hash=1601219828"
+    },
+    {
         "name" : "Battle of Surabaya",
         "genre" : "action",
         "description" : "Musa, a thirteen-year-old shoe shiner, with Yumna, undergoes destiny through their adventure of waging war during the war time. Will they manage to bring peace among the troops keeping on fighting for nothing?",
