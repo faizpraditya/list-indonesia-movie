@@ -1,9 +1,17 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "Danur: I Can See Ghosts",
+        "genre" : "Horror",
+        "description" : "This movie follows the story of a girl who befriends with 3 ghosts.",
+        "rating" : "5.4",
+        "source": "https://www.imdb.com/title/tt6496236/"
     },
+    {
+        "name" : "Dilan 1990",
+        "genre" : "Drama,Comedy",
+        "description" : "Milea (Vanesha Prescilla) met with Dilan (Iqbaal Ramadhan) at a high school in Bandung in 1990. An unusual introduction brings Milea to know the uniqueness of Dilan who is smart, kind, and romantic in her eyes.",
+        "rating" : "7.3",
+        "source": "https://www.imdb.com/title/tt7843946/"
+    }
+    
 ]
