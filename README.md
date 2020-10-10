@@ -8,7 +8,7 @@ Selamat datang di quest **#HacktoberFest2020** ke-empat, pada quest ini kalian d
 2. Kemudian kalian mengclone repository yang telah kalian fork 
 3. Buka folder repository yang sudah kalian clone dengan text editor kalian
 4. Kalian bisa melakukan copy paste format yang sudah ada dan 
-5. Setelah kalian menambahkan daftar tempat wisata ke file **[Indonesian Movie.json](https://github.com/tiuinws/list-culture-on-indonesia/blob/master/indonesia-culture.json)**, kalian bisa mengikuti step dibawah ini untuk melakukan pull request.
+5. Setelah kalian menambahkan daftar film atau movie ke file **[Indonesian Movie.json](https://github.com/tiuinws/list-culture-on-indonesia/blob/master/indonesia-culture.json)**, kalian bisa mengikuti step dibawah ini untuk melakukan pull request.
 
 ```bash
 git status 
