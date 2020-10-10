@@ -1,5 +1,12 @@
 [
     {
+        "name": "Hangout",
+        "genre": "Comedy,Fantasy",
+        "description": "Hangout adalah film komedi hantu seru Indonesia tahun 2016. Film Ini tayang pada tanggal 22 Desember 2016. Film ini disutradarai oleh Raditya Dika. Film ini dibintangi oleh Raditya Dika, Prilly Latuconsina, Soleh Solihun, Titi Kamal, Mathias Muchus, Surya Saputra, Dinda Kanya Dewi, Gading Marten dan Bayu Skak.",
+        "rating": "5.9/10",
+        "source": "https://id.wikipedia.org/wiki/Hangout_(film)"
+    },
+    {
         "name": "The Act of Killing",
         "genre": "Documentasi, Biografi, Kriminal, Sejarah",
         "description": "film dokumenter karya sutradara Amerika Serikat Joshua Oppenheimer",
