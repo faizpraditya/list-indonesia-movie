@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "Dua Garis Biru",
+        "genre" : "Drama Keluarga",
+        "description" : "Bima dan Dara adalah sepasang kekasih yang masih duduk di bangku SMA. Pada usia 17 tahun, mereka nekat bersanggama di luar nikah. Dara pun hamil. Keduanya kemudian dihadapkan pada kehidupan yang tak terbayangkan bagi anak seusia mereka, kehidupan sebagai orangtua.",
+        "rating" : "8,1",
+        "source": "https://g.co/kgs/cJi6CK"
     },
+    {
+        "name" : "Jelangkung 3",
+        "genre" : "Horor",
+        "description" : "Jelangkung 3 adalah film horor Indonesia yang dirilis pada tahun 2007. Film yang disutradarai oleh Erwin Arnada ini dibintangi antara lain oleh Mitha Griselda, Andrew Ralph Roxburgh, Reza Pahlevi, dan masih banyak lagi. Tayangan perdana pada 5 Oktober 2007.",
+        "rating" : "4,7",
+        "source": "https://id.wikipedia.org/wiki/Jelangkung_3"
+    }``
 ]
