@@ -1,5 +1,12 @@
 [
     {
+        "name" : "Battle of Surabaya",
+        "genre" : "action",
+        "description" : "Musa, a thirteen-year-old shoe shiner, with Yumna, undergoes destiny through their adventure of waging war during the war time. Will they manage to bring peace among the troops keeping on fighting for nothing?",
+        "rating" : "7.1",
+        "source": "https://www.imdb.com/title/tt2943352/"
+    },
+    {
         "name" : "Ada apa dengan cinta",
         "genre" : "romance",
         "description" : "Ada Apa dengan Cinta? adalah sebuah film percintaan Indonesia karya Rudi Soedjarwo yang dirilis pertama kali pada tanggal 7 Februari 2002 dan dibintangi Nicholas Saputra dan Dian Sastrowardoyo.",
