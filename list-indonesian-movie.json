@@ -1,9 +1,16 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "Ada apa dengan cinta",
+        "genre" : "romance",
+        "description" : "Ada Apa dengan Cinta? adalah sebuah film percintaan Indonesia karya Rudi Soedjarwo yang dirilis pertama kali pada tanggal 7 Februari 2002 dan dibintangi Nicholas Saputra dan Dian Sastrowardoyo.",
+        "rating" : "7",
+        "source": "https://id.wikipedia.org/wiki/Ada_Apa_dengan_Cinta%3F"
+    },
+    {
+        "name" : "Ayat Ayat Cinta",
+        "genre" : "romance",
+        "description" : "Ayat-Ayat Cinta adalah sebuah film Indonesia karya Hanung Bramantyo yang dibintangi oleh Fedi Nuril, Rianti Cartwright, Carissa Putri, Zaskia Adya Mecca, dan Melanie Putria. Film ini merupakan film religi hasil adaptasi dari sebuah novel best seller karya Habiburrahman El Shirazy berjudul Ayat Ayat Cinta, dan tayang perdana pada 28 Februari 2008.",
+        "rating" : "8",
+        "source": "https://id.wikipedia.org/wiki/Ayat-ayat_Cinta_(film)"
     },
 ]
