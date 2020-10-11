@@ -1,9 +1,39 @@
 [
     {
-        "name" : "",
-        "genre" : "",
-        "description" : "",
-        "rating" : "",
-        "source": ""
+        "name" : "gundala",
+        "genre" : "action",
+        "description" : "gundala adalah sebuah film pahlawn super neo-noir indonesia tahun 2019 yang di sutradarai dan ditulis oleh joko anwar. film ini adalah produksi bersama screen play films, legacy pictures, ideosource enterainment",
+        "rating" : "6.4/10",
+        "source": "https://www.youtube.com/watch?v=fsXDJoSHqLs"
     },
+    {
+        "name" : "dilan 1990",
+        "genre" : "romantic",
+        "description" : "milea met with dilan at a high school in bandung 1990. an unusual introduction brings milea to know the uniqenees od=f dolan who is smart, kind, and romanric in her eyes",
+        "rating" : "7.3/10",
+        "source" : "https://www.youtube.com/watch?v=X_b-wNkz4DU"
+    },
+    {
+        "name" : "teman tapi menikah",
+        "genre" : "romantic",
+        "description" : "ayudia and dito have been best friends for 12 years. and for all those time, ditto has been secretly in love with her. until one day, ayudia told him that she's gonna get married",
+        "rating" : "6.9/10",
+        "source" : "https://www.youtube.com/watch?v=czhzKWDQ1GI"
+
+    },
+    {
+        "name" : "one day wee'll talk about today",
+        "genre" : "romantic",
+        "description" : "three siblings live in happy-looking families, but one of them had changed and got warned by his parrent. this prompted the rebellion odf the three sibling which led to the discovery of the secrets and great trauma in their families",
+        "rating" : "7.5/10",
+        "source" : "https://www.youtube.com/watch?v=TcHh986XvI4"
+    },
+    {
+        "name" : "london love story",
+        "genre" : "romantic",
+        "description" : "fate unites 4 different people with different situations and brings a little bit of surprise into their lives",
+        "rating" : "6.3/10",
+        "source" : "https://www.youtube.com/watch?v=Tl4BeEbRppE"
+    }
+
 ]
