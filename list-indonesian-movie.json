@@ -267,5 +267,19 @@
         "rating": 6.6,
         "image": "https://m.media-amazon.com/images/M/MV5BYmRmMDFkNzgtMjU1ZC00N2Y4LWEwZDUtZmFiMDA2ZjRiNmM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         "source": "https://www.imdb.com/title/tt10540024/"
+    },
+    {
+        "name": "Yowis Ben",
+        "genre": "Komedi, Drama",
+        "description": "Yowis Ben adalah film drama komedi berseri garapan StarVision yang pertama kali tayang di bioskop pada tahun 2018. Setiap sekuelnya dirilis 1 tahun kemudian. Hingga kini telah menghasilkan 3 seri film, dan 1 seri web. Film ini menceritakan kehidupan Bayu, Doni, Nando, dan Yayan dalam membangun sebuah band dari SMA.",
+        "rating": "8,4/10",
+        "image": "https://upload.wikimedia.org/wikipedia/id/2/2e/Yowis_Ben.jpg"
+    },
+    {
+        "name": "Yowis Ben 2",
+        "genre": "Komedi, Drama",
+        "description": "Usai diputus SUSAN (Cut Meyriska), BAYU (Bayu Skak) dihadapkan naiknya harga kontrakan yang membuat dia, Ibunya dan CAK JON (Arief Didu) terancam diusir. Untungnya Yowis Ben populer di Malang dan jadi satu-satunya harapan Bayu menyelesaikan persoalan keuangan.",
+        "rating": "7.2/10",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2ZjODRlNzYtNTRmZS00MjU3LWExYmEtNjYyMWZhMjQyMjY5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UX500_.jpg"
     }
 ]
