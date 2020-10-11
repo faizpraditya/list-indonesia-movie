@@ -200,5 +200,21 @@
         "description": "Their romance ended before it could flourish. As memories of their love linger, fate gives them a chance to meet again.",
         "rating": "6.1/10 IMDb, 4.9/5 Shopee, 4.5/5 Tokopedia",
         "image": "https://upload.wikimedia.org/wikipedia/id/f/f7/Suara_dari_Dilan.jpg"
+    },
+
+    {
+        "name": "Tenggelamnya Kapal Van Der Wick",
+        "genre": "Romance, Drama",
+        "description": "Diadaptasi dari novel klasik dengan judul yang sama, film ini mengisahkan kisah cinta antara Zainuddin, Hayati, dan Aziz. Dengan perbedaan latar belakang sosial tersebut, cinta sejati Zainuddin dan Hayati membawa sebuah tragedi di atas kapal Van Der Wijck yang sedang berlayar.",
+        "rating": "7.6/10 IMDb",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2YwZmFkNzItMDYzZC00N2IzLThjOTYtOWJkNTE0NGExOTY0XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_SY1000_CR0,0,659,1000_AL_.jpg"
+    },
+
+    {
+        "name": "Twivortiare",
+        "genre": "Romance, Drama",
+        "description": "Seorang pria dan wanita jatuh cinta akan segera menikah. Setelah dua tahun, mereka memutuskan untuk bercerai karena semua konflik yang tiada henti. Namun setelah berbagai acara selalu mempertemukan mereka kembali, cinta mereka kembali bersemi.",
+        "rating": "5.8/10 IMDb",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzRiMGY4MzUtOTlhMC00ZmRkLTgzMDYtMmRkYzY2ZmUwMjU4XkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_SY1000_CR0,0,699,1000_AL_.jpg"
     }
 ]
