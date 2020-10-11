@@ -87,7 +87,7 @@
         "name": "Bombshell",
         "genre": "Biografi, Drama",
         "description": "Film Hollywood Bombshell besutan Jay Roach",
-        "rating": "6.8/10",
+        "rating": "6.8/10"
     },
     {
         "name": "Dua Garis Biru",
@@ -200,5 +200,13 @@
         "description": "Their romance ended before it could flourish. As memories of their love linger, fate gives them a chance to meet again.",
         "rating": "6.1/10 IMDb, 4.9/5 Shopee, 4.5/5 Tokopedia",
         "image": "https://upload.wikimedia.org/wikipedia/id/f/f7/Suara_dari_Dilan.jpg"
+    },
+    {
+	"name": "Bumi Manusia aka This Earth of Mankind",
+	"description": "A native Javanese boy and a mixed-Dutch girl fall in love during the early 20th-century colonial turbulence in Dutch East Indies (now Indonesia).",
+	"genre": ["History", "Drama"],
+	"rating": 6.6,
+	"image": "https://m.media-amazon.com/images/M/MV5BYmRmMDFkNzgtMjU1ZC00N2Y4LWEwZDUtZmFiMDA2ZjRiNmM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+	"source": "https://www.imdb.com/title/tt10540024/"
     }
 ]
