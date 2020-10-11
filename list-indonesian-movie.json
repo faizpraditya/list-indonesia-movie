@@ -87,7 +87,7 @@
         "name": "Bombshell",
         "genre": "Biografi, Drama",
         "description": "Film Hollywood Bombshell besutan Jay Roach",
-        "rating": "6.8/10",
+        "rating": "6.8/10"
     },
     {
         "name": "Imperfect",
@@ -207,5 +207,16 @@
         "description": "Negeri 5 Menara adalah sebuah film garapan Kompas Gramedia production bersama Million Pictures yang merupakan adaptasi dari novel karya Ahmad Fuadi berjudul Negeri 5 Menara. Skenario ditulis oleh Salman Aristo yang juga penulis naskah film Ayat-Ayat Cinta, Laskar Pelangi, Sang Penari . Disutradarai oleh Affandi Abdul Rachman film ini mengambil lokasi syuting di Pondok Modern Darussalam Gontor Ponorogo Jawa Timur, Sumatra Barat, Bandung, hingga London. Film ini dirilis pada 1 Maret 2012.",
         "rating": "6,9/10",
         "image": "https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/negeri-5-menara-2012.jpg"
+    },
+    {
+        "name": "Bumi Manusia aka This Earth of Mankind",
+        "description": "A native Javanese boy and a mixed-Dutch girl fall in love during the early 20th-century colonial turbulence in Dutch East Indies (now Indonesia).",
+        "genre": [
+            "History",
+            "Drama"
+        ],
+        "rating": 6.6,
+        "image": "https://m.media-amazon.com/images/M/MV5BYmRmMDFkNzgtMjU1ZC00N2Y4LWEwZDUtZmFiMDA2ZjRiNmM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "source": "https://www.imdb.com/title/tt10540024/"
     }
 ]
