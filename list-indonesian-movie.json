@@ -245,7 +245,7 @@
     },
     {
         "name": "Comic 8",
-        "genre": "Laga, Komed",
+        "genre": "Laga, Komedi",
         "description": "Comic 8 adalah film aksi-komedi Indonesia yang disutradarai oleh Anggy Umbara dan diproduseri oleh Hb Naveen dan Frederica. Film ini rilis pada tanggal 29 Januari 2014. Bersinopsis Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
         "rating": "6,9/10",
         "image": "https://upload.wikimedia.org/wikipedia/id/a/ac/Comic_8.jpg"
@@ -260,12 +260,23 @@
     {
         "name": "Bumi Manusia aka This Earth of Mankind",
         "description": "A native Javanese boy and a mixed-Dutch girl fall in love during the early 20th-century colonial turbulence in Dutch East Indies (now Indonesia).",
-        "genre": [
-            "History",
-            "Drama"
-        ],
-        "rating": 6.6,
+        "genre": "History, Drama",
+        "rating": "6.6/10",
         "image": "https://m.media-amazon.com/images/M/MV5BYmRmMDFkNzgtMjU1ZC00N2Y4LWEwZDUtZmFiMDA2ZjRiNmM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         "source": "https://www.imdb.com/title/tt10540024/"
+    },
+    {
+        "name": "Nanti Kita Cerita Tentang Hari Ini",
+        "description": "NKCTHI adalah film drama Indonesia tahun 2020 yang disutradarai oleh Angga Dwimas Sasongko dan diproduksi oleh Visinema Pictures, diadaptasi dari novel berjudul Nanti Kita Cerita Tentang Hari Ini karya Marcella FP.",
+        "genre": "Drama Keluarga, Romance",
+        "rating": "7.9/10",
+        "image": "https://cdn.cgv.id/uploads/movie/pictures/19045100.jpg"
+    },
+    {
+        "name": "Teman Tapi Menikah",
+        "description": "#TemanTapiMenikah adalah sebuah film drama Indonesia tahun 2018 yang diproduksi oleh Falcon Pictures.",
+        "genre": "Drama Keluarga, Romance",
+        "rating": "6.9/10",
+        "image": "https://upload.wikimedia.org/wikipedia/id/9/9e/Teman_Tapi_Menikah_Poster.png"
     }
 ]
