@@ -245,7 +245,7 @@
     },
     {
         "name": "Comic 8",
-        "genre": "Laga, Komed",
+        "genre": "Laga, Komedi",
         "description": "Comic 8 adalah film aksi-komedi Indonesia yang disutradarai oleh Anggy Umbara dan diproduseri oleh Hb Naveen dan Frederica. Film ini rilis pada tanggal 29 Januari 2014. Bersinopsis Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
         "rating": "6,9/10",
         "image": "https://upload.wikimedia.org/wikipedia/id/a/ac/Comic_8.jpg"
@@ -266,17 +266,31 @@
         "source": "https://www.imdb.com/title/tt10540024/"
     },
     {
-        "name":"Comic 8",
-        "genre":"action, comedy",
-        "description":"Eight young people from various backgrounds and life stories coincidentally rob a bank at the same time",
-        "rating":"6,9",
-        "source":"https://www.imdb.com/title/tt3524530/"
-        },
-  {
-      "name":"The Raid: Redemption",
-      "genre":" Action, Thriller",
-      "description":"A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.",
-      "rating":"7,6",
-      "source":"https://www.imdb.com/title/tt1899353/"
-  }
+        "name": "Nanti Kita Cerita Tentang Hari Ini",
+        "description": "NKCTHI adalah film drama Indonesia tahun 2020 yang disutradarai oleh Angga Dwimas Sasongko dan diproduksi oleh Visinema Pictures, diadaptasi dari novel berjudul Nanti Kita Cerita Tentang Hari Ini karya Marcella FP.",
+        "genre": "Drama Keluarga, Romance",
+        "rating": "7.9/10",
+        "image": "https://cdn.cgv.id/uploads/movie/pictures/19045100.jpg"
+    },
+    {
+        "name": "Teman Tapi Menikah",
+        "description": "#TemanTapiMenikah adalah sebuah film drama Indonesia tahun 2018 yang diproduksi oleh Falcon Pictures.",
+        "genre": "Drama Keluarga, Romance",
+        "rating": "6.9/10",
+        "image": "https://upload.wikimedia.org/wikipedia/id/9/9e/Teman_Tapi_Menikah_Poster.png"
+    },
+    {
+        "name": "Comic 8",
+        "genre": "action, comedy",
+        "description": "Eight young people from various backgrounds and life stories coincidentally rob a bank at the same time",
+        "rating": "6,9",
+        "source": "https://www.imdb.com/title/tt3524530/"
+    },
+    {
+        "name": "The Raid: Redemption",
+        "genre": " Action, Thriller",
+        "description": "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.",
+        "rating": "7,6",
+        "source": "https://www.imdb.com/title/tt1899353/"
+    }
 ]
