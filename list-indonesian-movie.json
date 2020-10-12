@@ -260,8 +260,8 @@
     {
         "name": "Bumi Manusia aka This Earth of Mankind",
         "description": "A native Javanese boy and a mixed-Dutch girl fall in love during the early 20th-century colonial turbulence in Dutch East Indies (now Indonesia).",
-        "genre": "History, Drama",
-        "rating": "6.6/10",
+        "genre": "history,drama",
+        "rating": "6.6",
         "image": "https://m.media-amazon.com/images/M/MV5BYmRmMDFkNzgtMjU1ZC00N2Y4LWEwZDUtZmFiMDA2ZjRiNmM5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
         "source": "https://www.imdb.com/title/tt10540024/"
     },
@@ -278,5 +278,19 @@
         "genre": "Drama Keluarga, Romance",
         "rating": "6.9/10",
         "image": "https://upload.wikimedia.org/wikipedia/id/9/9e/Teman_Tapi_Menikah_Poster.png"
+    },
+    {
+        "name": "Comic 8",
+        "genre": "action, comedy",
+        "description": "Eight young people from various backgrounds and life stories coincidentally rob a bank at the same time",
+        "rating": "6,9",
+        "source": "https://www.imdb.com/title/tt3524530/"
+    },
+    {
+        "name": "The Raid: Redemption",
+        "genre": " Action, Thriller",
+        "description": "A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.",
+        "rating": "7,6",
+        "source": "https://www.imdb.com/title/tt1899353/"
     }
 ]
