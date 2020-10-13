@@ -273,4 +273,18 @@
         "rating": "7,6",
         "source": "https://www.imdb.com/title/tt1899353/"
     }
+    {
+        "name": "Laskar Pelangi",
+        "genre": "Roman",
+        "description": "Laskar Pelangi (2008) adalah sebuah film garapan sutradara Riri Riza yang dirilis pada 26 ... Sang Pemimpi merupakan film kedua yang diadaptasi dari novel karya Andrea Hirata.",
+        "rating": "7.8/10",
+        "source": "https://m.youtube.com/watch?v=1txK-mYB4XA"
+    },
+    {
+        "name": "Susah Sinyal",
+        "genre": "Drama/Komedi",
+        "description": "film ini dibintangi oleh Adinia Wirasti, Ernest Prakasa, Aurora Ribeiro, Refal Hady dan Valerie Thomas. Film yang salah satu adegannya bertempat lokasi di Sumba ini dirilis pada 21 Desember 2017. ",
+        "rating": "7.1/10",
+        "source": "https://m.youtube.com/watch?v=7ZyMf5P66yE"
+    }
 ]
