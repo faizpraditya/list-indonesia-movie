@@ -307,5 +307,19 @@
         "description": "film ini dibintangi oleh Adinia Wirasti, Ernest Prakasa, Aurora Ribeiro, Refal Hady dan Valerie Thomas. Film yang salah satu adegannya bertempat lokasi di Sumba ini dirilis pada 21 Desember 2017. ",
         "rating": "7.1/10",
         "source": "https://m.youtube.com/watch?v=7ZyMf5P66yE"
+    },
+    {
+      "name": "Semesta Mendukung",
+      "genre": "Drama",
+      "description": "Semesta Mendukung merupakan film drama keluarga Indonesia yang dirilis pada 2011 yang disutradarai oleh John De Rantau. Film ini terinspirasi dari kisah-kisah kegemilangan putra-putri Indonesia mengangkat nama bangsa Indonesia di kancah dunia internasional lewat pelbagai olimpiada sains.",
+      "rating": "6.9/10",
+      "source": "https://www.imdb.com/title/tt2323653/"
+    },
+    {
+      "name": "Gie",
+      "genre": "Biografi, Drama",
+      "description": "Gie adalah sebuah film biopik garapan sutradara Riri Riza. Gie mengisahkan seorang tokoh bernama Soe Hok Gie, mahasiswa Universitas Indonesia yang lebih dikenal sebagai demonstran dan pecinta alam.",
+      "rating": "7.6/10",
+      "source": "https://www.imdb.com/title/tt0459327/"
     }
 ]
