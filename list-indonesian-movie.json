@@ -321,5 +321,19 @@
       "description": "Gie adalah sebuah film biopik garapan sutradara Riri Riza. Gie mengisahkan seorang tokoh bernama Soe Hok Gie, mahasiswa Universitas Indonesia yang lebih dikenal sebagai demonstran dan pecinta alam.",
       "rating": "7.6/10",
       "source": "https://www.imdb.com/title/tt0459327/"
+    },
+    {
+      "name": "Ngenest",
+      "genre": "Komedi",
+      "description": "Ernest, an Indonesia guy of Chinese descent, has to deal with his life as a Chinese-born, how he often got bullied in school, and how he decided to find a local girl to marry.",
+      "rating": "7.0/10",
+      "source": "https://www.imdb.com/title/tt6380556/"
+    },
+    {
+      "name": "Cek Toko Sebelah",
+      "genre": "Komedi, Drama, Keluarga",
+      "description": "Cek Toko Sebelah is about the tale of a widowed father, left with his shop to take care of. When he gets a heart attack, he leaves his shop to the hands of his youngest son, Erwin. This is an epic movie that tells about the story of how the shop gets sold, and Erwin and his brother, Yudi, devise a plot to win the shop back.",
+      "rating": "8.0/10",
+      "source": "https://www.imdb.com/title/tt6366854/"
     }
 ]
