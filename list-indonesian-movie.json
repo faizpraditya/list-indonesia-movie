@@ -321,5 +321,19 @@
       "description": "Gie adalah sebuah film biopik garapan sutradara Riri Riza. Gie mengisahkan seorang tokoh bernama Soe Hok Gie, mahasiswa Universitas Indonesia yang lebih dikenal sebagai demonstran dan pecinta alam.",
       "rating": "7.6/10",
       "source": "https://www.imdb.com/title/tt0459327/"
+    },
+    {
+      "name": "Hari Untuk Amanda",
+      "genre": "Drama",
+      "description": "Hari untuk Amanda merupakan film Indonesia yang dirilis pada 7 Januari 2010 dengan disutradarai oleh Angga Dwimas Sasongko.",
+      "rating": "7.6/10",
+      "source": "https://www.imdb.com/title/tt1414494/"
+    },
+    {
+      "name": "Sang Pencerah",
+      "genre": "Biografi, Drama",
+      "description": "Sang Pencerah adalah film drama tahun 2010 yang disutradarai oleh Hanung Bramantyo berdasarkan kisah nyata tentang pendiri Muhammadiyah, Ahmad Dahlan.",
+      "rating": "6.8/10",
+      "source": "https://www.imdb.com/title/tt1748192/"
     }
 ]
