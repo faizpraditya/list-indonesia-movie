@@ -231,7 +231,6 @@
         "image": "https://i.pinimg.com/originals/2f/9e/7a/2f9e7ab952d56c66d4e03b4930157bd7.jpg"
     },
     {
-    {
         "name": "Comic 8",
         "genre": "Laga, Komedi",
         "description": "Comic 8 adalah film aksi-komedi Indonesia yang disutradarai oleh Anggy Umbara dan diproduseri oleh Hb Naveen dan Frederica. Film ini rilis pada tanggal 29 Januari 2014. Bersinopsis Delapan anak muda masing-masing mempunyai alasan dan motif yang berbeda-beda dalam melakukan perampokan bank. Ada yang merampok karena galau, hobi, iseng, olahraga adrenalin, bahkan ada yang merampok untuk menghidupi panti asuhan dan rakyat miskin.",
@@ -357,5 +356,12 @@
         "description": "Cek Toko Sebelah is about the tale of a widowed father, left with his shop to take care of. When he gets a heart attack, he leaves his shop to the hands of his youngest son, Erwin. This is an epic movie that tells about the story of how the shop gets sold, and Erwin and his brother, Yudi, devise a plot to win the shop back.",
         "rating": "8.0/10",
         "source": "https://www.imdb.com/title/tt6366854/"
+    },
+    {
+        "name": "Serigala Terakhir",
+        "genre": "Action, Drama, Crime",
+        "description": "Childhood friends who have the same story and same condition made a gang with their other friends. Their gang is named Serigala Terakhir a.k.the Last Wolves. They have a dream to be the biggest mafia that can they reach.",
+        "rating": "6.7/10",
+        "source": "https://www.imdb.com/title/tt1537898/"
     }
 ]
